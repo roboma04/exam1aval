@@ -10,7 +10,7 @@ Resportes:
 
 5. - mv si.txt si/
 
-6. - cat Alumnos.txt
+6. - cat Alumnos.txt >> si.txt || grep SI Alumnos.txt
 
 7. -
 
