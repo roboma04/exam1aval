@@ -10,7 +10,7 @@ Resportes:
 
 5. - mv si.txt si/
 
-6. - 
+6. - sed 's/ /-/g' Alumnos.txt
 
 7. - 
 
