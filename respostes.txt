@@ -12,7 +12,7 @@ Resportes:
 
 6. - sed 's/ /-/g' Alumnos.txt
 
-7. - 
+7. - grep 
 
 8. - sed 's/Vicente/Pepe/g' Alumnos.txt
 
@@ -20,4 +20,4 @@ Resportes:
 
 10. - grep J Alumnos.txt
 
-11. - 
+11. - grep
