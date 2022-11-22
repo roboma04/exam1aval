@@ -16,7 +16,7 @@ Resportes:
 
 8. - sed 's/Vicente/Pepe/g' Alumnos.txt
 
-9. - 
+9. - head -n17 | tail -n2
 
 10. -
 
