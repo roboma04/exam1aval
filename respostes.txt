@@ -14,7 +14,7 @@ Resportes:
 
 7. - 
 
-8. - 
+8. - sed 's/Vicente/Pepe/g' Alumnos.txt
 
 9. - 
 
