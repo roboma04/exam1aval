@@ -4,15 +4,15 @@ Resportes:
 
 2. - cd examen/
 
-3. - cat > si.txt || grep
+3. - cat Alumnos.txt >> si.txt || grep SI Alumnos.txt
 
 4. - mkdir si
 
 5. - mv si.txt si/
 
-6. - cat Alumnos.txt >> si.txt || grep SI Alumnos.txt
+6. - 
 
-7. -
+7. - 
 
 8. - 
 
