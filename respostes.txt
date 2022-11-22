@@ -11,3 +11,5 @@ Resportes:
 5. - mv si.txt si/
 
 6. - cat Alumnos.txt
+
+7. -
