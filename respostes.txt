@@ -1,0 +1,7 @@
+Resportes:
+
+1. - mkdir examen
+
+2. - cd examen/
+
+3. - cat > si.txt || grep
