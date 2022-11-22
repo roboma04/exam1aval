@@ -5,3 +5,7 @@ Resportes:
 2. - cd examen/
 
 3. - cat > si.txt || grep
+
+4. - mkdir si
+
+5. - mv si.txt si/
