@@ -18,6 +18,6 @@ Resportes:
 
 9. - head -n17 | tail -n2
 
-10. -
+10. - grep J Alumnos.txt
 
 11. - 
